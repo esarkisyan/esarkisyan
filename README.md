@@ -1,7 +1,7 @@
 # Edmon Sarkisyan  
 Information Systems: Software Technology @ CSUN
 
-Aspiring Application Engineer.  
+Aspiring Machine Learning Engineer.  
 Learning Python, Java, JavaScript, SQL, and AWS.  
 Building real-world tools and sharpening my software skills.
 
